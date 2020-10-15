@@ -1,0 +1,43 @@
+/*Apply to all*/
+*{
+	box-sizing: border-box;
+}
+
+/*Apply to title*/
+div.heading{
+	color:  #000099;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+/*Navigation bar*/
+div.nav_top{
+	background: #ccccff;
+	padding:10px;
+	border: 2px solid #0000b3;
+	margin: 10px; 
+}
+
+div a{
+	padding: 10px
+}
+
+/* First row of content*/
+.column {
+	float: left;
+}
+
+h3, h4 {
+	text-align: center;
+}
+
+.nav-left, .right{
+	width: 15%;
+	background-color: #c1c1a4;
+	border: 2px solid black;
+}
+
+.middle {
+	width: 70%;
+	background-color: #e0e0d1; 
+}
